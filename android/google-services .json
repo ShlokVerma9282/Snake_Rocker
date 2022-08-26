@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891052581250",
+    "project_id": "snake-rock",
+    "storage_bucket": "snake-rock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891052581250:android:69bc3c844a97942d066f9b",
+        "android_client_info": {
+          "package_name": "com.example.snake_ocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891052581250-j84930vlsejmpn3583d9d9k3r46r320q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G51XWBHed3l9RdN_t0ZU7x1sPEL6qzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891052581250-j84930vlsejmpn3583d9d9k3r46r320q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

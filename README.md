@@ -1,6 +1,9 @@
-# snake_ocker
+# snake_Rocker
 
-A new Flutter project.
+Play the game and enjoy https://snake-rock.web.app/#/
+![image](https://user-images.githubusercontent.com/85363350/186826534-691696af-fdda-4b40-86c0-65da3b533196.png)
+
+Beat the high score and rock it up
 
 ## Getting Started
 
